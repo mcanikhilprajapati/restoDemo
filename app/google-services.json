@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731796761107",
+    "firebase_url": "https://fir-restodemo.firebaseio.com",
+    "project_id": "fir-restodemo",
+    "storage_bucket": "fir-restodemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731796761107:android:b7033cbde4551173",
+        "android_client_info": {
+          "package_name": "canvas.com.myresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731796761107-msfvb37g2jgl13igqkack88ahk4gk00k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "canvas.com.myresto",
+            "certificate_hash": "e4f34bad0fe1c49a1e3da0d62c497b32b392d449"
+          }
+        },
+        {
+          "client_id": "731796761107-279hvr0l9t66p3vq53hfarmekcd153ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALypy8wfdKEa9HMQDR2awvAz1_ep4gwqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731796761107-279hvr0l9t66p3vq53hfarmekcd153ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
